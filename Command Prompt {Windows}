@@ -1,4 +1,4 @@
-** Command Prompt {Windows} **
+# Command Prompt {Windows} 
 * 'cls' clears the screen of all previous commands and outputs
 * 'netstat' lists all the devices on a network and their connection status
 * 'ping "link.com"' ping command followed by a link of some sort (google or github for example) will test the network stability, also providing packet loss.
